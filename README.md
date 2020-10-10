@@ -1,5 +1,5 @@
 # neverending-horror
-Simple project about generating horror stories using.
+Simple project about generating horror stories.
 
 ## [Notebook](https://github.com/EvilKhaosKat/neverending-horror/blob/master/neverending-horror.ipynb)
 
