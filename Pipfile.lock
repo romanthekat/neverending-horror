@@ -1154,7 +1154,7 @@
                 "sha256:dbba0bac56e100853db0ea71b82b4dfd5fe2bf6d3754a8893c3af500cec7d7cf"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==2.32.5"
+            "version": "==2.33.0"
         },
         "rfc3339-validator": {
             "hashes": [
