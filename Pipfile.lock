@@ -1372,7 +1372,7 @@
                 "sha256:fa07d31e0cd85c60713f2b995da613588aa03e1303d75705dca6af8babc18ddc"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==6.5.4"
+            "version": "==6.5.5"
         },
         "traitlets": {
             "hashes": [
