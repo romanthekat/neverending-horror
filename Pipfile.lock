@@ -792,7 +792,7 @@
                 "sha256:576a7e37c6480da7b8465eefa66c17844243816ce1ccc372633c6b71c3c0f582"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==7.16.6"
+            "version": "==7.17.0"
         },
         "nbformat": {
             "hashes": [
