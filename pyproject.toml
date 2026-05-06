@@ -1,0 +1,12 @@
+[project]
+name = "neverending-horror"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "markovify>=0.9.4",
+    "requests>=2.33.1",
+    "urllib3>=2.6.3",
+]
